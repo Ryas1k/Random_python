@@ -23,6 +23,8 @@
 
 Классическая игра "Виселица", в которой игроку нужно угадать загаданное слово, называя буквы или целое слово.
 
+<img width="362" height="527" alt="image" src="https://github.com/user-attachments/assets/4a9a1ffa-fb82-425a-8957-d1be3f94a759" />
+
 ## Особенности:
 
 -  Случайный выбор слова из предустановленного списка
@@ -57,6 +59,8 @@
 **Файл:** `generator_password.py`
 
 Гибкий генератор случайных паролей с настраиваемыми параметрами безопасности.
+
+<img width="598" height="269" alt="image" src="https://github.com/user-attachments/assets/f3fbf862-b227-4801-be97-f67ba2bae313" />
 
 ## Возможности:
 
@@ -148,6 +152,8 @@
 **Файл:** `guessing_game.py`
 
 Простая, но увлекательная игра на угадывание загаданного числа от 1 до 100.
+
+<img width="444" height="240" alt="image" src="https://github.com/user-attachments/assets/e91ea2ca-0303-4eaa-88b5-e8ee70c0266c" />
 
 ## Механика игры:
 
